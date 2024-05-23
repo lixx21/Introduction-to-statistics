@@ -13,6 +13,7 @@ we can use bar graph if the data is quantitative (i.e. numbers, then we should b
 
 this graph is similar with bar graph but, it allows you to use blocks with different widths. **The key point** of the blocks are proportional to frequency this means that the total are corresponds to 100%. Example if we want to figuring out what percentage of people fallen the age group from 60 to 80 we can see through the 60 to 80 block from the graph below.
 
+https://github.com/lixx21/Introduction-to-statistics/blob/master/images/Screenshot%202024-05-23%20135125.png
 
 and if we see the area for 60 to 80 group, we can say that the area is 1/7 of the total area and we can know the percentage **roughly 14%** of the people fall in to the range age 60 to 80. So we can figure out the percentage falling into a blcok without a vertical scale since the total area equals to 100%. But, sometimes it is useful for us to have the vertical scale or sometimes we called it as **density scale**. Its unit is '% per unit', so in the example above the vertical unit is '% per year'. The reason why this density sometimes useful because the area of the block corresponds to a percentage and the area is computed by width time height and since the width is given in years, the unit for the height needs to be percent per year in order for the units to work out
 
