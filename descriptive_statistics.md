@@ -130,32 +130,23 @@ A high standard deviation indicates that the values are spread out over a wider 
 The standard deviation gives insight into the consistency and variability of the data. It is especially useful when comparing datasets that have the same mean but different spreads.
 
 1. Population Standard Deviation
+For a population:
+σ = √[ Σ(x - μ)² / N ]
+Where:
 
-\[
-\sigma = \sqrt{\frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2}
-\]
-
-\[
-\sigma = \sqrt{\frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2}
-\]
-
-- \(\sigma\) = population standard deviation
-- \(N\) = the number of data points
-- \(x_i\) = each individual data point
-- \(\mu\) = the mean of the data
-- \(\sum\) = summation
+σ (sigma) is the population standard deviation
+Σ (sigma) means "sum of"
+x is each value in the population
+μ (mu) is the population mean
+N is the number of values in the population
 
 2. Sample Standard Deviation
+For a sample:
+s = √[ Σ(x - x̄)² / (n - 1) ]
+Where:
 
-\[
-s = \sqrt{\frac{1}{N-1} \sum_{i=1}^{N} (x_i - \bar{x})^2}
-\]
-
-
-\[
-s = \sqrt{\frac{1}{N-1} \sum_{i=1}^{N} (x_i - \bar{x})^2}
-\]
-
-- \(s\) = sample standard deviation
-- \(\bar{x}\) = sample mean
-- \(N-1\) = Bessel's correction
+s is the sample standard deviation
+Σ (sigma) means "sum of"
+x is each value in the sample
+x̄ (x-bar) is the sample mean
+n is the number of values in the sample
