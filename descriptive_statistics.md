@@ -150,3 +150,5 @@ s is the sample standard deviation
 x is each value in the sample
 x̄ (x-bar) is the sample mean
 n is the number of values in the sample
+
+The two numbers x¯ and s are often used to summarize data. Both are sensitive to a few large or small data. If that is a concern, use the median and the interquartile range.
