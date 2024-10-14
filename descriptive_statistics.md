@@ -1,15 +1,34 @@
-# Pie Chart and Dot Plot
+# Descriptive Statistics
+
+Descriptive statistics refers to the branch of statistics that focuses on summarizing and describing the main features of a dataset. Rather than drawing conclusions or making predictions (which is the role of inferential statistics), descriptive statistics help us understand and interpret data by organizing it into meaningful information.
+
+Descriptive statistics include:
+
+1. Measures of central tendency: These describe the center or typical value of the data, such as the mean (average), median (middle value), and mode (most frequent value).
+
+2. Measures of variability (dispersion): These describe how spread out or dispersed the data is, such as the range (difference between the highest and lowest values), variance, and standard deviation (which shows how much the data deviates from the mean).
+
+3. Frequency distributions: These summarize how often each value occurs in the dataset, such as through tables, charts, or histograms.
+
+In essence, descriptive statistics provide a clear and concise summary of the data, making it easier to interpret large datasets and spot trends, patterns, or outliers.
+
+Descriptive statistics are important because they provide a way to summarize and communicate key information about a dataset in a concise manner, especially when dealing with large amounts of data. These statistics help highlight important patterns, trends, and distributions in the data, allowing for more effective reasoning and decision-making. It is best to use a graphical summary to communicate information, because people prefer to look at pictures rather than at numbers.
+
+
+There are many ways to visualize the data:
+
+## Pie Chart and Dot Plot
 
 These 2 charts are used to visualize qualitative data such as color, car types, etc. there are advantages and disadavantages between these 2 charts:
 
 1. it would be easier using dot plot if we want to compare frequencies of various categories
 2. with pie chart, it would be very helpful to eyeball what fraction of the total a category corresponds to
 
-# Bar Graph
+## Bar Graph
 
 we can use bar graph if the data is quantitative (i.e. numbers, then we should be put on a number line). This is because the ordering and the distance between the numbers convey important information
 
-# Histogram Graph
+## Histogram Graph
 
 this graph is similar with bar graph but, it allows you to use blocks with different widths. **The key point** of the blocks are proportional to frequency this means that the total are corresponds to 100%. Example if we want to figuring out what percentage of people fallen the age group from 60 to 80 we can see through the 60 to 80 block from the graph below.
 
@@ -21,3 +40,8 @@ There are 2 kinds of inforrmation that we can get from histogram:
 
 1. Density (crowding): The height of the bar tells how many subjects there are for one unit on the horizontal scalle. For example, the highest density is around age 19 as 0.4 = 4% of all subjects ar age 19. In contrast, only about 0.7% of subjects fall into each one year rage for ages 60-80
 2. Percentages (relative frequencies): Those are given by Area = height x width. Remember that the area from this histogram corresponds to percentage and the area of the block is give by **height x width**. For example we want to know what percentage of people fall in age range between 60-80, about 14% of all subjects fall into the age range 60-80, because the corresponding area is (0.7% per year) x (20 years) = 14%. Alternatively, you can find this answer by eyeballing that this area makes up roughly 1.7 of total area of the histogram, so roughly 1/7 = 14% of all subjects fall in that range
+
+## Box PLot
+
+Box plot depicts 5 keys number of the data:
+    - 
